@@ -1,3 +1,4 @@
+// Beer Song example which prints the Number of the bottle song
 package first;
 
 public class beerSong {
