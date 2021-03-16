@@ -1,3 +1,4 @@
+// Inner Method Demo
 package first;
 
 class Outer {
