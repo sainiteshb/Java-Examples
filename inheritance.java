@@ -1,3 +1,5 @@
+// Inheritance Example of extending a existing class 
+
 package first;
 
 class Calculator {
