@@ -1,3 +1,5 @@
+// Overriding Class Example
+
 package first;
 
 class A {
