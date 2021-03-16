@@ -1,3 +1,5 @@
+// Iteration example using rows
+
 package first;
 import java.util.Scanner;
 public class iteration {
