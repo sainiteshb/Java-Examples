@@ -1,3 +1,5 @@
+// Interface Example
+
 package first;
 
 interface Demo {
