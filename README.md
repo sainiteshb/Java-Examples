@@ -1,3 +1,3 @@
 # Java-Examples
 
-**Just Some Examples using JAVA programming language. 
+**Just Some Examples using JAVA programming language.**
