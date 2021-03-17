@@ -1,3 +1,6 @@
+// Random Switch Case example
+
+
 package first;
 
 public class Random {
