@@ -1,6 +1,8 @@
 package practice;
 import javax.swing.JOptionPane;
 
+// GUI example
+
 public class GUIintro {
 
 	public static void main(String[] args) {
