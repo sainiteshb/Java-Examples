@@ -2,4 +2,4 @@
 
 -**Just Some Examples using JAVA programming language.**
 
--*This consists basic code for practice*
+-*This consists basic code for practice* 
