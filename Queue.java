@@ -4,7 +4,7 @@ public class Queue {
 
 	int front,rear;
 	int items[];
-	
+	 
 	Queue(int size){
 		front = -1;
 		rear = -1;
