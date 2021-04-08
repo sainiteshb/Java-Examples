@@ -35,5 +35,21 @@ class LinkedList1 {
 	  // Adding all the elements of second linked list
 	  ll.addAll(ll2);
 	  System.out.println("Initial list of elements: "+ll); 
+	  
+	  // Removing examples
+	  ll.remove(1);
+	  ll.removeFirstOccurrence(ll);
+	  ll.removeLast();
+	  System.out.println("Initial list of elements: "+ll); 
+	  
+	  // Reversing a list
+	  Iterator i = ll.descendingIterator();
+	  while(i.hasNext()) {
+		  System.out.println(i.next());
+	  }
+	  
+	  // Clearing list\
+	  ll.clear();
+	  System.out.println( ll );
   }
 }
